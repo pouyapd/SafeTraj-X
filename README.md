@@ -85,6 +85,3 @@ SafeTraj-X/
 
     
 
-
-  requirements.txt
-  README.md
