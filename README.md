@@ -42,6 +42,29 @@ Lightweight feature-importance showing which input contributed most to the risk.
 ### • Interactive Dashboard
 Streamlit sliders → real-time trajectory → real-time risk evaluation.
 
+## 📷 Dashboard Preview
+
+### Low-risk example
+
+A typical motion command inside the training range with a smooth trajectory and a **low-risk** label.
+
+![SafeTraj-X dashboard – low-risk](assets/dashboard_low_risk.png)
+
+### High-risk / OOD example
+
+A motion command far outside the training range, flagged with higher OOD scores and a **high-risk** label.
+
+![SafeTraj-X dashboard – high-risk](assets/dashboard_high_risk.png)
+
+---
+
+## 🖥 CLI Example
+
+Example output from the command-line interface:
+
+![SafeTraj-X CLI demo](assets/cli_example.png)
+
+
 ## 📦 Installation
 
 Clone the project:
